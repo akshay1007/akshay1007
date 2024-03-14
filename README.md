@@ -1,3 +1,6 @@
+
+![Uploading SQL.gif…]()
+
 - 👋 Hi, I’m @akshay1007
 - 👀 I’m interested in Data Architect,Data Modeling , Data Processing , Data Visualisation
 - 🌱 I’m currently learning Realtime data modeling and analytics
