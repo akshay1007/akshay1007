@@ -1,5 +1,5 @@
 
-![Uploading SQL.gif…]()
+![Data](https://https://github.com/akshay1007/akshay1007/edit/main/SQL.gif)
 
 - 👋 Hi, I’m @akshay1007
 - 👀 I’m interested in Data Architect,Data Modeling , Data Processing , Data Visualisation
