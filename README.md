@@ -8,6 +8,5 @@
 akshay1007/akshay1007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](DataArchitectureModel.gif)
 ![](SQL.gif)
 
