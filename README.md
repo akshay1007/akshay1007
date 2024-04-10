@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Realtime data modeling and analytics
 - 💞️ I’m looking to collaborate on data related projects
 - 📫 How to reach me akshay13jain@gmail.com or +917204545899
+- https://about.me/jainakshay
 
 <!---
 akshay1007/akshay1007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
